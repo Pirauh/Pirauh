@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Pirauh
+- 🌱 I’m currently learning Python
